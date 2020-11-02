@@ -1,0 +1,16 @@
+{
+"companyName": "Joshua Lyons",
+"productName": "A.I Prototype",
+"productVersion": "0.1",
+"dataUrl": "PortfolioLogos.data.unityweb",
+"wasmCodeUrl": "PortfolioLogos.wasm.code.unityweb",
+"wasmFrameworkUrl": "PortfolioLogos.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.3f1"
+}
